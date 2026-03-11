@@ -13,7 +13,7 @@ export const SidebarBtn = () => {
       <SidebarButton
         as="a"
         href="/cv/cv.pdf"
-        download="CV.pdf"
+        download="cv.pdf"
         themeobj={themeobj}
       >
         Скачать cv
